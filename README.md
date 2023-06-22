@@ -4,15 +4,16 @@ This is my Food-Cave website done as a part of FRT Project.
 
 **Project repository** --> https://github.com/jahnavi508/FoodCave.git
 
-**Project Link** --> https://nice-meadow-0366e0c10.3.azurestaticapps.net/
+**Project Link** --> https://delightful-wave-0abfd8d10.3.azurestaticapps.net
 
-**Project Demo Video** --> https://drive.google.com/drive/folders/11mwwiNjXecUe27Bcsz1h_1fxPmoATSyf?usp=drive_link
+**Project Demo Video** --> 
 
 
 **Azure technologies used for Project**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Static web apps
-* Web apps
+* Static Web App
+* Azure Cognitive Service ( Azure Language Service )
+* Azure Bot Service
 
 
 **Features and Functionalities**
@@ -20,6 +21,7 @@ This is my Food-Cave website done as a part of FRT Project.
 
 * Interactive and responsive UI.
 * Displays all the food items that are available via Restaurant or online ordering.
+* Contains an chatbot to interact with customer to clear their queries.
 * Has collection of many sections like Home,About,Menu,Gallery,ContactUs in the webpage.
 * It contains all the items that are present in tiffin,lunch,dinner and also other beverages.
 * User can know the complete menu from the website.
@@ -34,46 +36,59 @@ This is my Food-Cave website done as a part of FRT Project.
 
 Home 
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/c464aea9-60b4-44d1-a976-4eacafcaeb0d)
+![image](https://github.com/jahnavi508/FoodCave/assets/110041585/946e2033-db77-4922-99e2-1a0280fc000d)
+
 
 
 
 About 
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/be76de57-26c3-4778-8f9c-852ac05558c3)
+![image](https://github.com/jahnavi508/FoodCave/assets/110041585/acf89640-4646-49e5-afa8-064e557e277e)
 
 
 
 Services 
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/26e4b946-4ce2-4b1c-9b00-9c1a2a1b8457)
+![image](https://github.com/jahnavi508/FoodCave/assets/110041585/4672085a-f8b7-40ae-bef6-efd865f042b9)
+
 
 
 Menu
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/173fb366-41d6-4554-862b-9f9be7ebb07b)
+![image](https://github.com/jahnavi508/FoodCave/assets/110041585/f3024add-62bc-4571-8dc7-5c8380b7e2c4)
+
 
 
 Gallery
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/f79911a5-33ad-4ca0-a909-bb6bf9413464)
+![image](https://github.com/jahnavi508/FoodCave/assets/110041585/4041c44b-ac59-4574-9997-b169a878c154)
+
 
 
 Table Booking
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/653b795a-3b0c-44e0-91d9-46098ff1035b)
+![image](https://github.com/jahnavi508/FoodCave/assets/110041585/4e03a45c-9fee-4f4f-8109-cc2d992d454d)
 
 
-Contact Page
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/7d5e2a92-7197-4774-9744-75ca9e13fe57)
+Contact
+
+![image](https://github.com/jahnavi508/FoodCave/assets/110041585/3c3809c9-ea76-46b8-b8cb-e90700a72618)
+
+
+Chat Bot 
+
+![image](https://github.com/jahnavi508/FoodCave/assets/110041585/303d566d-f298-4a21-a988-48d64fe3c0c6)
 
 
 
 
 **Tech Stack**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Azure(static web app)
+* Azure Static Web App
+* Azure Cognitive Service
+* Azure Bot Service
+* Azure Language Service
 * HTML
 * CSS
 * JavaScript
@@ -81,8 +96,9 @@ Contact Page
 
 
 **Team Members**
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* K.Jahnavi
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* K.Jahnavi 
 * A.Snehitha
 * Ch.Tarakeaswar
 * T.Balaji
