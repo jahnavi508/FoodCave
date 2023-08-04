@@ -4,9 +4,9 @@ This is my Food-Cave website done as a part of FRT Project.
 
 **Project repository** --> https://github.com/jahnavi508/FoodCave.git
 
-**Project Link** --> https://delightful-wave-0abfd8d10.3.azurestaticapps.net
+**Project Link** --> https://white-mud-05171ef10.3.azurestaticapps.net
 
-**Project Demo Video** --> https://youtu.be/_xQozhUWy_Q
+**Project Demo Video** --> 
 
 
 **Azure technologies used for Project**
