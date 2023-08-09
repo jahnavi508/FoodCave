@@ -6,7 +6,7 @@ This is my Food-Cave website done as a part of FRT Project.
 
 **Project Link** --> https://white-mud-05171ef10.3.azurestaticapps.net
 
-**Project Demo Video** --> 
+**Project Demo Video** -->  
 
 
 **Azure technologies used for Project**
@@ -61,7 +61,8 @@ Menu
 
 Gallery
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/4041c44b-ac59-4574-9997-b169a878c154)
+![image](https://github.com/jahnavi508/FoodCave/assets/110041585/4a7257bc-7bbe-4ec6-b323-e5a97350c5a5)
+
 
 
 
